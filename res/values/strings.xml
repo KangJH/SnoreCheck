@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SnoreCheck</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="communication_intent">Service_Comm</string>
+	<string name="audio_recorder_folder">AudioRecorder</string>
+</resources>
